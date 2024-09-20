@@ -1,6 +1,6 @@
 version: '3'
 services:
-  web237eweq:
+  rffes:
     build: .
     ports:
       - "8000:8000"
