@@ -1,4 +1,7 @@
-flask
-redis
-celery
+
 selenium
+fastapi
+pydantic
+python-dotenv
+uvicorn
+requests

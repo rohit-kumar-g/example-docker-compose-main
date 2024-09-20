@@ -1,1 +1,8 @@
 /.github
+app/__pycache__/*
+__pycache__/*
+app/chromedriver.exe
+# app/__pycache__/main.cpython-310.pyc
+# __pycache__/app.cpython-37.pyc
+.env
+# app/__pycache__/selenium_script.cpython-310.pyc
